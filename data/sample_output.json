@@ -1,0 +1,16 @@
+[
+  {
+    "pageUrl": "https://example.com/page1",
+    "title": "Page 1 Title",
+    "content": "Page 1 content.",
+    "sentiment": "positive",
+    "summary": "This page is about example content."
+  },
+  {
+    "pageUrl": "https://example.com/page2",
+    "title": "Page 2 Title",
+    "content": "Page 2 content.",
+    "sentiment": "negative",
+    "summary": "This page contains negative content."
+  }
+]
