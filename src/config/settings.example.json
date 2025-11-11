@@ -1,0 +1,8 @@
+{
+  "input_file": "data/inputs.sample.txt",
+  "output_file": "data/sample_output.json",
+  "gpt_instructions": {
+    "api_key": "your-openai-api-key-here",
+    "prompt_prefix": "Analyze and summarize the following content:"
+  }
+}
