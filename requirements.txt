@@ -1,0 +1,5 @@
+openai==0.10.0
+playwright==1.18.0
+
+extended-gpt-scraper/.keep
+textThis folder is used for storing data outputs and input files.
